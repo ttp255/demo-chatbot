@@ -16,6 +16,8 @@ def  main():
        
         if st.button('Process'):
             with st.spinner('Processing'):
+                if not os.path.exists('./file'):
+                    os.mkdir('./file')
                 file_path='./file/'+pdf_file.name
                 if os.path.exists(file_path):
                     os.remove(file_path)
