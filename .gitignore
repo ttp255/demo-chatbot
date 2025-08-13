@@ -1,0 +1,4 @@
+chroma/
+.env
+AI_chatbot.ipynb
+__pycache__/
