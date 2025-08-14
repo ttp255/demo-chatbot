@@ -22,6 +22,7 @@ dataclasses-json==0.6.7
 debugpy @ file:///D:/bld/bld/rattler-build_debugpy_1754523438/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1740384970518/work
 distro==1.9.0
+dotenv==0.9.9
 durationpy==0.10
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1746947292760/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1745502089858/work
@@ -113,6 +114,8 @@ pydantic-settings==2.10.1
 pydantic_core==2.33.2
 pydeck==0.9.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1750615794071/work
+pypdf==6.0.0
+PyPDF2==3.0.1
 PyPika==0.48.9
 pyproject_hooks==1.2.0
 pyreadline3==3.5.4
